@@ -5,3 +5,6 @@
 + Business Layer - слой для доступа к данным бизнес пользователей
 
 Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор
+
+
+![Архитектура Аналитического Решения](https://github.com/user-attachments/assets/c56131fa-341e-4ed2-b57c-c9033c33c475)
