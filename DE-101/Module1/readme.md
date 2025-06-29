@@ -6,4 +6,4 @@
 
 Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор
 
-![Архитектура Аналитического Решения](https://github.com/user-attachments/assets/8d9fc89d-9229-4698-af07-89f55036ba72)
+![Архитектура Аналитического Решения](https://github.com/user-attachments/assets/810ff43f-46ba-41f7-9357-1bc70df235d5)
