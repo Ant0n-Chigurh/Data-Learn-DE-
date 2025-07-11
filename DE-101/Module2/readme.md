@@ -15,7 +15,9 @@ from orders o
 where o.order_id not in (select order_id from returns)
 ```
 <img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
-***
+
+---
+
 
 + Sales by Product Category all time
 ```
@@ -27,7 +29,9 @@ group by category
 order by sum_sales desc
 ```
 <img width="333" height="109" alt="image" src="https://github.com/user-attachments/assets/b749b8b1-efce-43dd-a1bc-e4838b0edb2c" />
-***
+
+---
+
 
 + Sales and Profit by Customer
 ```
@@ -42,7 +46,9 @@ order by sum_profit desc
 limit 10
 ```
 <img width="692" height="288" alt="image" src="https://github.com/user-attachments/assets/10aa9916-7643-4158-bd44-bf3231257d56" />
-***
+
+---
+
 
 + Sales per region
 ```
