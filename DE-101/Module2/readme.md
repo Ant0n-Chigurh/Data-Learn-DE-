@@ -21,7 +21,7 @@ where o.order_id not in (select order_id from returns) ```
  
 
 + Sales by Product Category all time
-```
+``` sql
 select category,
 round(sum(sales)) as sum_sales
 from orders o 
@@ -35,7 +35,7 @@ order by sum_sales desc
 
 
 + Sales and Profit by Customer
-```
+``` sql
 select customer_id,
 customer_name,
 round(sum(sales)) as sum_sales,
@@ -52,7 +52,7 @@ limit 10
 
 
 + Sales per region
-```
+``` sql
 select region,
 round(sum(sales)) as sum_sales
 from orders o 
