@@ -1,7 +1,8 @@
 # 2.3: Подключение к Базам Данных и SQL
 
 ### Overview (обзор ключевых метрик)
-+ Total Sales
+
+> + Total Sales
 + Total Profit
 + Profit Ratio
 + Avg. Discount
@@ -14,9 +15,7 @@ round(avg(discount),2) as "Average Discount"
 from orders o 
 where o.order_id not in (select order_id from returns)
 ```
-<img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
-
----
+> <img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
 
 
 + Sales by Product Category all time
