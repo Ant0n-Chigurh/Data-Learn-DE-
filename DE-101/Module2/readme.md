@@ -15,7 +15,7 @@
 > from orders o 
 > where o.order_id not in (select order_id from returns) ```
 > 
-> <img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
+<img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
  
 
 + Sales by Product Category all time
