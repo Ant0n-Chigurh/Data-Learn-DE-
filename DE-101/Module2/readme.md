@@ -19,6 +19,7 @@ where o.order_id not in (select order_id from returns) ```
 ```
 <img width="713" height="84" alt="Screenshot_1" src="https://github.com/user-attachments/assets/744d535a-9059-492b-938b-2e4c2354357e" />
  
+ ---
 
 + Sales by Product Category all time
 ``` sql
@@ -62,7 +63,7 @@ order by sum_sales desc
 ```
 <img width="318" height="137" alt="image" src="https://github.com/user-attachments/assets/2c669df8-9f35-416a-8c10-19cfa69664da" />
 
-___
+
 # 2.4: Модели Данных
 
 ### **Концептуальная модель**
