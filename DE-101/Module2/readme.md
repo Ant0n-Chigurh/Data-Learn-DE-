@@ -8,7 +8,7 @@
 + Avg. Discount
 
 
-``` js
+``` sql
 select 
 round(sum(sales)) as "Total Sales",
 round(sum(o.profit)) as "Total Profit",
