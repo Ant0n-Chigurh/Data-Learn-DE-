@@ -73,3 +73,7 @@ order by sum_sales desc
 ### **Логическая модель**
 
 <img width="965" height="523" alt="image" src="https://github.com/user-attachments/assets/9dc04a4e-de28-4e7f-a5d4-1bcc26d87766" />
+
+### **Физическая модель**
+
+<img width="1109" height="537" alt="physics_model" src="https://github.com/user-attachments/assets/55c0352a-a31d-4fca-8bcd-dd394fe7c993" />
