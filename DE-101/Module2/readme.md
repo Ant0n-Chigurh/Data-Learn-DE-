@@ -78,4 +78,4 @@ order by sum_sales desc
 
 <img width="1109" height="537" alt="physics_model" src="https://github.com/user-attachments/assets/55c0352a-a31d-4fca-8bcd-dd394fe7c993" />
 
-### **Файлик с DDL:**https://github.com/Ant0n-Chigurh/Data-Learn-DE-/blob/main/DE-101/Module2/create_dw.sql
+### Файлик с DDL: https://github.com/Ant0n-Chigurh/Data-Learn-DE-/blob/main/DE-101/Module2/create_dw.sql
