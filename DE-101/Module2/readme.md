@@ -79,3 +79,8 @@ order by sum_sales desc
 <img width="1109" height="537" alt="physics_model" src="https://github.com/user-attachments/assets/55c0352a-a31d-4fca-8bcd-dd394fe7c993" />
 
 ### Файлик с DDL: https://github.com/Ant0n-Chigurh/Data-Learn-DE-/blob/main/DE-101/Module2/create_dw.sql
+
+# 2.5: База данных в облаке
+
+Используем облако <YandexCloud https://yandex.cloud/ru>
+<img width="1919" height="923" alt="Screenshot_1" src="https://github.com/user-attachments/assets/249a0ab0-c4c4-4a1a-92e4-8fafb1e3b6e0" />
