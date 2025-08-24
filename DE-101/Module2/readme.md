@@ -83,5 +83,6 @@ order by sum_sales desc
 # 2.5: База данных в облаке
 
 Используем облако [YandexCloud](https://yandex.cloud/ru)
+Создаём схемы [stg](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/stg.orders.sql) и [dw](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/from_stg_to_dw.sql)
 
 <img width="1919" height="923" alt="Screenshot_1" src="https://github.com/user-attachments/assets/249a0ab0-c4c4-4a1a-92e4-8fafb1e3b6e0" />
