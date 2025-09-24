@@ -93,3 +93,5 @@ order by sum_sales desc
 В качестве BI инструмента используем [Yandex DataLens](https://datalens.ru/)
 
 https://datalens.ru/98sld6iwq0swu-superstore-dashboard
+
+<img width="1829" height="869" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/a78a1bdf-5208-4157-a0ad-9e516d70a0da" />
